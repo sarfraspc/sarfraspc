@@ -3,11 +3,11 @@
 
 - 👨💻 All of my projects are available at [https://github.com/sarfraspc](https://github.com/sarfraspc)
 
-- 📫 How to reach me **sarfrasspc@gmail.com**
+- 📫reach me **sarfrasspc@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammedsarfras](https://www.linkedin.com/in/muhammedsarfras)
 
-<h3 align="left">Connect with me:</h3>
+
 <img align="right" alt="Coding" width="400" src="[[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxkdHhseTQ4YTk3OXFlYnR0M3BiazNuNWM3MDRpcXJhOGE1eHdqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2XB76CaWPggiNW/200.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2020%2F11%2Fhow-can-you-build-a-career-in-data-science-machine-learning%2F&psig=AOvVaw0tVP5sgGKlWLXhk_1eUfNW&ust=1732713290383000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjL27yK-okDFQAAAAAdAAAAABAE)](https://editor.analyticsvidhya.com/uploads/78723aiml.jpeg)">
 <p align="left">
 </p>
