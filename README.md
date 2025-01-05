@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm sarfras</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">A passionate Data scientist from Kerala</h3>
 
-- 👨💻 All of my projects are available at [https://github.com/sarfraspc](https://github.com/sarfraspc)
-
-- 📫reach me **sarfrasspc@gmail.com**
+- 📫reach me **sarfrasspc@gmail.com**  
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammedsarfras](https://www.linkedin.com/in/muhammedsarfras)
 
