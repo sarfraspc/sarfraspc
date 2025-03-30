@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muhammed Sarfras</h1>
-<h3 align="center">🔍 Data Scientist & ML Engineer from Kerala, India 🌟</h3>
+<h3 align="center"> Data Scientist & ML Engineer from Kerala, India </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarfraspc&label=Profile%20views&color=0e75b6&style=flat" alt="sarfraspc" />
@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 💫 About Me
+##  About Me
 
 - 🔭 Currently working on **Deep Learning & NLP Projects**
 - 🧠 Research interests in **Computer Vision and Predictive Analytics**
@@ -21,7 +21,7 @@
 - 🤝 Looking to collaborate on **innovative AI solutions**
 - ⚡ Fun fact: **I can explain complex ML concepts using everyday analogies**
 
-## 🛠️ Data Science & ML Arsenal
+##  Data Science & ML Arsenal
 
 <table>
   <tr>
@@ -78,7 +78,7 @@
   </tr>
 </table>
 
-## 🧪 ML Specializations
+##  ML Specializations
 
 ```mermaid
 mindmap
@@ -107,14 +107,14 @@ mindmap
       PowerBI
 ```
 
-## 📫 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="mailto:sarfrasspc@gmail.com"><img src="https://img.shields.io/badge/Email-sarfrasspc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammedsarfras"><img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Sarfras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/sarfras/"><img src="https://img.shields.io/badge/LeetCode-sarfras-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-## 🌐 Portfolio & Projects
+##  Portfolio & Projects
 <div align="center">
   <a href="https://sarfraspc.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-9cf?style=for-the-badge&logo=react&logoColor=white"/>
@@ -122,13 +122,13 @@ mindmap
   
 </div>
 
-## 📈 Data Science Projects
+##  Data Science Projects
 
 | Project | Tech Stack | Domain | Link |
 |---------|------------|--------|------|
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarfraspc&show_icons=true&theme=radical" alt="sarfraspc" />
