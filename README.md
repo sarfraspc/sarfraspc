@@ -13,13 +13,13 @@
 
 ##  About Me
 
-- 🔭 Currently working on **Deep Learning & NLP Projects**
-- 🧠 Research interests in **Computer Vision and Predictive Analytics**
-- 🌱 Learning **MLOps, Advanced Deep Learning, and Big Data Technologies**
-- 👨‍💻 Experienced in building **end-to-end ML pipelines**
-- 📊 Passionate about **data visualization & storytelling**
-- 🤝 Looking to collaborate on **innovative AI solutions**
-- ⚡ Fun fact: **I can explain complex ML concepts using everyday analogies**
+-  Currently working on **Deep Learning & NLP Projects**
+-  Research interests in **Computer Vision and Predictive Analytics**
+-  Learning **MLOps, Advanced Deep Learning, and Big Data Technologies**
+-  Experienced in building **end-to-end ML pipelines**
+-  Passionate about **data visualization & storytelling**
+-  Looking to collaborate on **innovative AI solutions**
+-  Fun fact: **I can explain complex ML concepts using everyday analogies**
 
 ##  Data Science & ML Arsenal
 
