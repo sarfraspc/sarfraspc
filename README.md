@@ -57,7 +57,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
+      <br>R
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
@@ -99,10 +99,8 @@ mindmap
     NLP
       Text Classification
       Sentiment Analysis
-      NER
     Data Visualization
       Matplotlib
-      Plotly
       Tableau
       PowerBI
 ```
