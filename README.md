@@ -91,9 +91,4 @@
 </div>
 
 
----
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-science.svg" alt="Built with Science" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-</p>
