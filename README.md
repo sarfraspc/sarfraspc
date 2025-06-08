@@ -3,11 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muhammed Sarfras</h1>
 <h3 align="center"> Data Scientist & ML Engineer from Kerala, India </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarfraspc&label=Profile%20views&color=0e75b6&style=flat" alt="sarfraspc" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-brightgreen" alt="Focus" />
-  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20SQL%20%7C%20R-blue" alt="Languages" />
-</p>
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -78,32 +73,7 @@
   </tr>
 </table>
 
-##  ML Specializations
 
-```mermaid
-mindmap
-  root((My Data Science Skills))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Reinforcement Learning
-    Deep Learning
-      CNN
-      RNN
-      Transformers
-      GANs
-    Data Engineering
-      ETL Pipelines
-      Data Warehousing
-      Big Data Tools
-    NLP
-      Text Classification
-      Sentiment Analysis
-    Data Visualization
-      Matplotlib
-      Tableau
-      PowerBI
-```
 
 ##  Connect With Me
 <p align="center">
@@ -112,7 +82,7 @@ mindmap
   <a href="https://leetcode.com/u/sarfras/"><img src="https://img.shields.io/badge/LeetCode-sarfras-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-##  Portfolio & Projects
+##  Portfolio 
 <div align="center">
   <a href="https://sarfraspc.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-9cf?style=for-the-badge&logo=react&logoColor=white"/>
@@ -120,25 +90,6 @@ mindmap
   
 </div>
 
-##  Data Science Projects
-
-| Project | Tech Stack | Domain | Link |
-|---------|------------|--------|------|
-
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarfraspc&show_icons=true&theme=radical" alt="sarfraspc" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarfraspc&theme=radical" alt="sarfraspc" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfraspc&layout=compact&theme=radical" alt="sarfraspc" />
-</p>
 
 ---
 
