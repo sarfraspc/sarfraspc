@@ -9,6 +9,8 @@
 ```
  Deep Learning & NLP  •   Data Visualization  •   Predictive Analytics
 ```
+<br>
+<br>
 
 ### Tech Stack
 
