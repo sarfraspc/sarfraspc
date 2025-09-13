@@ -7,7 +7,7 @@
 <br>
 
 ```
-Deep Learning & NLP  •   MLOps & Deployment  •   Predictive Modeling
+   Deep Learning & NLP  •   MLOps & Deployment  •   Predictive Modeling
 ```
 <br>
 <br>
