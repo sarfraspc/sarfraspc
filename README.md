@@ -1,13 +1,13 @@
 <div align="center">
 
 # Muhammed Sarfras
-### Data Scientist & ML Engineer
+### Machine Learning Engineer
 *Kerala, India*
 
 <br>
 
 ```
- Deep Learning & NLP  •   Data Visualization  •   Predictive Analytics
+Deep Learning & NLP  •   MLOps & Deployment  •   Predictive Modeling
 ```
 <br>
 <br>
