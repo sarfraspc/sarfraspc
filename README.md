@@ -7,12 +7,13 @@
 <br>
 
 ```
-   Deep Learning & NLP  •   MLOps & Deployment  •   Predictive Modeling
+   Deep Learning & NLP  •   MLOps & Deployment  •   Predictive Modeling
 ```
-<br>
+
 <br>
 
 ### Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,6 +36,7 @@
 <br>
 
 ### Let's Connect
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarfrasspc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedsarfras)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sarfraspc.github.io/Portfolio/)
